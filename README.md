@@ -1,5 +1,5 @@
-# vagrant-docker-swarm-cluster-project
-In this project challenge we create a local Swarm cluster, using virtual machines provisioned with Vagrant
+# vagrant-docker-swarm-project
+In this project challenge we create an on premisses Docker Swarm cluster, using virtual machines provisioned with Vagrant.
 
 Step by step:
 
