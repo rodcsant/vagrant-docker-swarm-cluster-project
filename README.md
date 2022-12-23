@@ -8,3 +8,5 @@ Step by step:
 <p>. All VMs must have Docker pre-installed;</p>
 <p>. The machine named master must be the cluster manager node;</p>
 <p>. The other machine must be added to the Swarm cluster as Workers.</p>
+---
+Projeto realizado durante o bootcamp da DIO Jornada DevOps com AWS - Impulso, ministrado por https://github.com/denilsonbonatti
