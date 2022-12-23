@@ -1,5 +1,5 @@
 # vagrant-docker-swarm-project
-In this project challenge we create an on premisses Docker Swarm cluster, using virtual machines provisioned with Vagrant.
+Project for implementing an on premisses Docker Swarm cluster, using virtual machines provisioned with Vagrant.
 
 Step by step:
 
@@ -8,5 +8,7 @@ Step by step:
 <p>. All VMs must have Docker pre-installed;</p>
 <p>. The machine named master must be the cluster manager node;</p>
 <p>. The other machine must be added to the Swarm cluster as Workers.</p>
+
 ---
+
 Projeto realizado durante o bootcamp da DIO Jornada DevOps com AWS - Impulso, ministrado por https://github.com/denilsonbonatti
